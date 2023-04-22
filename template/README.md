@@ -1,0 +1,1 @@
+Acá se debe de agregar el footer y header de toda la pagina
